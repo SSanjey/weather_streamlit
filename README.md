@@ -92,5 +92,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Streamlit](https://streamlit.io) for the interactive Python-based framework.
 
 ---
-
-Feel free to customize this README as per your project! Let me know if you need additional sections or edits.
