@@ -28,12 +28,11 @@ An interactive **Weather App** built using **HTML**, **CSS**, **JavaScript**, an
 
 ---
 
-## 🎨 Screenshots
-### **HTML/CSS/JavaScript Version**
-![Weather App Frontend](https://via.placeholder.com/800x400?text=Weather+App+Screenshot)
-
+## 🎨 Screenshot
 ### **Streamlit Version**
 ![Weather App Streamlit](https://via.placeholder.com/800x400?text=Streamlit+Weather+App+Screenshot)
+![Streamlit Weather App Screenshot](https://drive.google.com/uc?export=view&id=15zhjDYnTRWejr7WZAPQ3U1mKJ2jQVWO8)
+
 
 ---
 
